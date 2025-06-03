@@ -1,3 +1,3 @@
 # Angular
-All Angular Projec
-#Learning backend
+All Angular Projects
+#Learning angular
