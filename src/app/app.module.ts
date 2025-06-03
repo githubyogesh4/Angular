@@ -8,6 +8,7 @@ import { FormsModule } from '@angular/forms';
 import { ShowPasswordComponent } from './Components/forms-binding/show-password/show-password.component';
 import { AmountRangeComponent } from './Components/forms-binding/amount-range/amount-range.component';
 import { HobbySwitchComponent } from './Components/Directives/hobby-switch/hobby-switch.component';
+import { EmployeeComponent } from './Components/Directives/employee/employee.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { HobbySwitchComponent } from './Components/Directives/hobby-switch/hobby
     SmsAppComponent,
     ShowPasswordComponent,
     AmountRangeComponent,
-    HobbySwitchComponent
+    HobbySwitchComponent,
+    EmployeeComponent
   ],
   imports: [
     BrowserModule,
